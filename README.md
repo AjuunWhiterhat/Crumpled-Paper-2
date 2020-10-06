@@ -1,1 +1,4 @@
-# Crumpled-Paper-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
+
+Simulation of throwing paper into the dustbin
